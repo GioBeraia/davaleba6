@@ -9,13 +9,14 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-inline: auto;
 }
 
 .headerul {
     display: flex;
     font-family: 'Ubuntu';
     font-style: normal;
-   
+
     font-weight: 500;
     font-size: 24px;
     line-height: 28px;
@@ -24,14 +25,49 @@ header {
 
 }
 
-.headera1{
-color: #27187F;
+.headera1 {
+    color: #27187F;
 }
 
-.headera2{
+.headera2 {
     color: #758BFD;
     margin-inline: 50px;
 }
-.headera3{
+
+.headera3 {
     color: #758BFD;
+}
+
+section{
+    background-color: #DDEAF8;
+    padding: 94px 98px 135px;
+    display: flex;
+    /* direction-:column; */
+}
+
+.sectionheader{
+    font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 37px;
+color: #27187F;
+margin-bottom: 68px;
+}
+.cards div{
+    background-color: white;
+
+}
+p{
+    font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+color: #133B3A;
+background-color: aqua;
+display: inline-block
+}
+.div1{
+    
 }

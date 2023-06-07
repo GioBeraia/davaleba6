@@ -1,0 +1,37 @@
+.container {
+    width: 1440px;
+    width: 100%;
+}
+
+header {
+    padding: 57px 98px;
+    /* background-color: rgb(63, 165, 42); */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.headerul {
+    display: flex;
+    font-family: 'Ubuntu';
+    font-style: normal;
+   
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    /* background-color: #758BFD; */
+
+
+}
+
+.headera1{
+color: #27187F;
+}
+
+.headera2{
+    color: #758BFD;
+    margin-inline: 50px;
+}
+.headera3{
+    color: #758BFD;
+}
